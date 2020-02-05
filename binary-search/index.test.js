@@ -1,4 +1,4 @@
-import binary_search from ('./index.js');
+const binary_search = require('./index.js');
 
 test('test binary search function', () => {
 

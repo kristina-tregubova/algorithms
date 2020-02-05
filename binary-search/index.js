@@ -1,5 +1,5 @@
 const binary_search = (arr, val) => {
-    
+
     let low = 0;
     let high = arr.length - 1;
   
@@ -18,4 +18,4 @@ const binary_search = (arr, val) => {
     return null
   }
 
-  export default binary_search;
+  exports.module = binary_search;
