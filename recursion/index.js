@@ -4,4 +4,4 @@ const recursionSum = list => {
     : list[0] + recursionSum(list.slice(1));
   };
 
-  exports.module = recursionSum;
+export default recursionSum;

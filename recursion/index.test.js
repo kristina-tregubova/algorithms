@@ -1,4 +1,4 @@
-const recursionSum = require('./index.js');
+import recursionSum from './index.js';
 
 test('test recursion sum function', () => {
 

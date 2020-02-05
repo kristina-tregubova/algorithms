@@ -18,4 +18,4 @@ const binary_search = (arr, val) => {
     return null
   }
 
-  exports.module = binary_search;
+export default binary_search;
